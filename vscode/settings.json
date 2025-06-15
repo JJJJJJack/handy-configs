@@ -1,0 +1,6 @@
+{
+  // organize imports on save (equivalent to `SHIFT + ALT + O`)
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
+}
